@@ -250,6 +250,16 @@ ul {
     margin-bottom: 20px;
 }
 
+#attribution {
+    text-decoration: none;
+}
+
+#attribution:hover {
+    color: #0c0736;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
 @media(max-width: 700px) {
     .menu-btn {
         display: block;
